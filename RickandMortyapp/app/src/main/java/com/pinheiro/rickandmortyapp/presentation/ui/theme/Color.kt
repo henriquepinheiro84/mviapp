@@ -1,4 +1,4 @@
-package com.pinheiro.rickandmortyapp.ui.theme
+package com.pinheiro.rickandmortyapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
