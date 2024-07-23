@@ -1,4 +1,4 @@
-package com.pinheiro.rickandmortyapp.ui.theme
+package com.pinheiro.rickandmortyapp.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
