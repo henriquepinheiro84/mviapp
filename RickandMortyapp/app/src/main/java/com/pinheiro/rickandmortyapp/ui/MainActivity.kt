@@ -1,4 +1,4 @@
-package com.pinheiro.rickandmortyapp
+package com.pinheiro.rickandmortyapp.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
