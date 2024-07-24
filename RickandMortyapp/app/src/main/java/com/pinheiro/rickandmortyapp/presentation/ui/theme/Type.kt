@@ -1,4 +1,4 @@
-package com.pinheiro.rickandmortyapp.ui.theme
+package com.pinheiro.rickandmortyapp.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
